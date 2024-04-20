@@ -11,8 +11,7 @@ Part 1: Describes fundamental aspects of AI, analyzes the application areas, adv
 Part 2: Implements AI algorithms (e.g., Artificial Neural Networks, logistic regression) to address specific issues identified in the complaint handling process.
 
 ## Key Components
-Data Analysis: Exploratory data analysis to understand patterns and trends in complaint data.
-
+Data Analysis: Exploratory data analysis to understand patterns and trends in complaint data.\n
 Model Development: Building and evaluating AI models to predict complaint resolution times and identify areas for improvement.
 
 ## How to Use
