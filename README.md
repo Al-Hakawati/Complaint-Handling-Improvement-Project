@@ -7,10 +7,12 @@ The dataset used in this project contains information about customer complaints,
 
 ## Project Goals
 Part 1: Describes fundamental aspects of AI, analyzes the application areas, advantages, disadvantages, and ethical considerations.
+
 Part 2: Implements AI algorithms (e.g., Artificial Neural Networks, logistic regression) to address specific issues identified in the complaint handling process.
 
 ## Key Components
 Data Analysis: Exploratory data analysis to understand patterns and trends in complaint data.
+
 Model Development: Building and evaluating AI models to predict complaint resolution times and identify areas for improvement.
 
 ## How to Use
